@@ -13,3 +13,7 @@ Z Y X W V U T S R Q P O N M L K J I H G F E D C B A
 The script prompts you to type in the encoded format, then subtracts the value from 219 to get the character value while preserving spaces from the input. 
 
 Run it with `node detectiveCode.js` in your terminal. Nothing fancy.
+
+
+--- Future TODO
+Create solution generator based on clues. 
